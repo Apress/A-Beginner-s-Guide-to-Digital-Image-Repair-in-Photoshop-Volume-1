@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*A Beginner’s Guide to Digital Image Repair in Photoshop*](https://link.springer.com/book/9798868804496) by Jennifer Harder (Apress, 2024).
+This repository accompanies [*A Beginner’s Guide to Digital Image Repair in Photoshop Volume 1*](https://link.springer.com/book/9798868804496) by Jennifer Harder (Apress, 2024).
 
 [comment]: #cover
 ![Cover image](979-8-8688-0449-6.jpg)
